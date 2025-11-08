@@ -1,0 +1,10 @@
+railway.json
+
+{
+  "build": {
+    "builder": "docker"
+  },
+  "deploy": {
+    "restartPolicyType": "never"
+  }
+}
